@@ -37,3 +37,13 @@ pnpm lint #
 ![alt text](log.jpg)
 > [Oxc.log](./Oxc.log)
 > copy from C:\Users\user\AppData\Roaming\Code\logs\20250325T140451\window1\exthost\oxc.oxc-vscode\Oxc.log
+
+
+```jsonc
+{
+    "oxc.trace.server": "verbose",
+}
+```
+
+> [Oxc.log with verbose](verbose-Oxc.log)
+

@@ -1,3 +1,4 @@
 {
     // "oxc.configPath": "./.oxlintrc.json"
+    "oxc.trace.server": "verbose",
 }
