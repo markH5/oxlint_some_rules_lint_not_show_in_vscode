@@ -1,0 +1,8 @@
+{
+    "ignorePatterns": [
+        "**/*.js"
+    ],
+    "rules": {
+        "no-control-regex": "error"
+    }
+}
